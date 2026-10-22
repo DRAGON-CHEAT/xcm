@@ -130,7 +130,7 @@ class handler(BaseHTTPRequestHandler):
             "android_version_code": "2.9",
             "apk_url": "",
             "device_key": "D2RAG0ON2SHO7W",
-            "expire_date": "2027-09-25 13:36:45",
+            "expire_date": "2026-09-25 13:36:45",
             "is_google_paid": True,
             "is_trial": 0,
             "notification": {
